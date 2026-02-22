@@ -2,6 +2,7 @@ import Footer from "../components/Footer/Footer"
 import Navigation from "../components/Navigation/Navigation"
 import "./globals.css"
 import {Inter, Poppins} from 'next/font/google'
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
         <Navigation />
         <main className="fule-height">{children}</main>
         <Footer/>
+        <SpeedInsights />
       </body>
     </html>
   )
