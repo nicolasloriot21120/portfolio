@@ -1,0 +1,110 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "slug": "taskflow-app",
+            "title": "TaskFlow - Gestionnaire de tâches",
+            "shortDescription": "Application de gestion de tâches avec système de priorités",
+            "longDescription": "TaskFlow est une application web moderne qui permet de gérer efficacement ses tâches quotidiennes. Elle offre un système de priorités avec code couleur, des notifications de deadline, et la possibilité de créer des catégories personnalisables. L'interface intuitive permet de glisser-déposer les tâches pour les réorganiser rapidement.",
+            "image": {
+                "link": "/charpente.png",
+                "size": {
+                    "width": 676,
+                    "height": 346
+                }
+            },
+            "tags": ["Next.js", "React", "CSS Modules"],
+            "github": "https://github.com/votre-username/taskflow",
+            "demo": "https://taskflow-demo.vercel.app",
+            "featured": true
+        },
+        {
+            "id": 2,
+            "slug": "weather-now",
+            "title": "WeatherNow - Application météo",
+            "shortDescription": "Météo en temps réel avec prévisions sur 7 jours",
+            "longDescription": "WeatherNow est une application météo élégante qui affiche les conditions actuelles et les prévisions détaillées. Elle utilise l'API OpenWeatherMap pour fournir des données précises et se base sur la géolocalisation pour afficher automatiquement la météo de votre région. L'interface s'adapte visuellement aux conditions météorologiques actuelles.",
+             "image": {
+                "link": "/charpente.png",
+                "size": {
+                    "width": 676,
+                    "height": 346
+                }
+            },
+            "tags": ["React", "API REST", "Geolocation"],
+            "github": "https://github.com/votre-username/weather-now",
+            "demo": "https://weather-now-demo.vercel.app",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "slug": "recipe-box",
+            "title": "RecipeBox - Livre de recettes",
+            "shortDescription": "Plateforme de partage de recettes avec filtres avancés",
+            "longDescription": "RecipeBox est une application web pour découvrir et sauvegarder vos recettes préférées. Elle propose un système de recherche avancé par ingrédients, temps de préparation et difficulté. Les utilisateurs peuvent créer leur propre collection de recettes favorites et les organiser par catégories.",
+             "image": {
+                "link": "/charpente.png",
+                "size": {
+                    "width": 676,
+                    "height": 346
+                }
+            },
+            "tags": ["Next.js", "CSS Grid", "LocalStorage"],
+            "github": "https://github.com/votre-username/recipe-box",
+            "demo": "https://recipe-box-demo.vercel.app",
+            "featured": false
+        },
+        {
+            "id": 4,
+            "slug": "portfolio-v1",
+            "title": "Portfolio v1",
+            "shortDescription": "Mon premier portfolio avec React",
+            "longDescription": "Ce portfolio représente mes débuts dans le développement web. Créé entièrement avec React, il présente mes premiers projets et mes compétences en développement frontend. Bien qu'il soit plus simple que la version actuelle, il témoigne de ma progression et de mon apprentissage continu.",
+             "image": {
+                "link": "/charpente.png",
+                "size": {
+                    "width": 676,
+                    "height": 346
+                }
+            },
+            "tags": ["React", "Vite", "CSS"],
+            "github": "https://github.com/votre-username/portfolio-v1",
+            "demo": "https://portfolio-v1-demo.vercel.app",
+            "featured": false
+        }
+    ],
+    "formations": [
+        {
+            "id": 1,
+            "slug": "controle-de-gestion",
+            "title": "Master contrôle de gestion",
+            "shortDescription": "Master en contrôle de gestion à Sup de V cergy",
+            "longDescription": "Master passé à cergy pontoise en 2016 comprenant de la comptabilité générale avec préparation au DCG et DSCG, de la fiscalité, du droit des entreprises et bien évidemment, du contrôle de gestion",
+            "image": {
+                "link": "/sup-de-v.png",
+                "size": {
+                    "width": 735,
+                    "height": 498
+                }
+            },
+            "tags": ["Comptabilité", "Contrôle de gestion", "Fiscalité", "Droit des enrteprises"],
+            "featured": true
+        },
+        {
+            "id": 2,
+            "slug": "architecte-logiciel",
+            "title": "Master architecte logiciel, développeur d'application",
+            "shortDescription": "Master en Informatique et développement d'applications",
+            "longDescription": "Master avec une pédagogie par projet, de nombreuses réalisations telles que des jeux, des sites web... dans de nombreux langages de programmation (C, C++, Java, C#, JT/TS...)",
+             "image": {
+                "link": "/etna.png",
+                "size": {
+                    "width": 903,
+                    "height": 434
+                }
+            },
+            "tags": ["React", "API REST", "Java", "C#", "Angular", "JS/TS"],
+            "featured": true
+        }
+    ]
+}

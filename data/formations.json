@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "slug": "controle-de-gestion",
+    "title": "Master contrôle de gestion",
+    "shortDescription": "Master en contrôle de gestion à Sup de V cergy",
+    "longDescription": "Master passé à cergy pontoise en 2016 comprenant de la comptabilité générale avec préparation au DCG et DSCG, de la fiscalité, du droit des entreprises et bien évidemment, du contrôle de gestion",
+    "image": "/sup-de-v.png",
+    "tags": ["Comptabilité", "Contrôle de gestion", "Fiscalité", "Droit des enrteprises"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "architecte-logiciel",
+    "title": "Master architecte logiciel, développeur d'application",
+    "shortDescription": "Master en Informatique et développement d'applications",
+    "longDescription": "Master avec une pédagogie par projet, de nombreuses réalisations telles que des jeux, des sites web... dans de nombreux langages de programmation (C, C++, Java, C#, JT/TS...)",
+    "image": "/etna.png",
+    "tags": ["React", "API REST", "Java", "C#", "Angular", "JS/TS"],
+    "featured": true
+  }
+]
